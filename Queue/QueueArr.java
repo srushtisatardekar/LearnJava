@@ -59,6 +59,7 @@ public class QueueArr {
        }
    }
    public static void main(String args[]) {
+       //QueueArr qr = new QueueArr();
        Queue q = new Queue(5);
        q.add(1);
        q.add(2);
