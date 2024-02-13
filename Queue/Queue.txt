@@ -1,0 +1,12 @@
+//Enque - adding elements O(1)
+//Dequeue - to remove O(N)
+//Deque - double ended queue 0(1)
+//peek - check the top 0(N)
+//ABOVE COMPLEXITIES IS USING ARRAY
+
+//Queue using array
+//size is fixed - so check if array is full, array is empty 
+//F ->0 , R->INDX LAST ELE , initally it is in -1
+
+
+In circular queue , it takes only O(1) time for enque, dequeue, peek.
